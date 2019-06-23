@@ -14,8 +14,8 @@ sections:
   label: Post
   create: all
   match: "**/*"
-upload_dir: ''
-public_path: ''
+upload_dir: img
+public_path: https://res.cloudinary.com/cache51/image/upload
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
