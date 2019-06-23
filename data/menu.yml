@@ -1,0 +1,10 @@
+- item: About
+  url: /about/
+- item: Blog
+  url: /
+- item: Esoterica
+  url: /categories/esoterica/
+- item: Truth Bombs
+  url: /categories/truth/
+- item: weirdness
+  url: /tags/weirdness/
