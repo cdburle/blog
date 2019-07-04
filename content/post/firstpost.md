@@ -8,13 +8,10 @@ categories:
 - Family
 - Tourism
 tags:
-- friends
-- bugs
-- planets
-- stars
 - paleontology
-- fossils
 - natural history
+- entomology
+- astronomy
 
 ---
 Brought my nephew/godson. We saw some things. Some guy fell asleep in the planetarium. It wasn't me.
