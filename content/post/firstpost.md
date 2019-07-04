@@ -1,18 +1,20 @@
 ---
-title: Bigfoots Is 4 Realz
-date: 2019-06-22T13:47:29.000+00:00
-author: Toby Marks
+title: Buggin' Out at the Lafayette Science Museum
+date: 2019-06-04T21:00:00+00:00
+author: Carl D. Burleigh
 image: bigfoot.jpg
 categories:
-- Bigfoot
-- Esoterica
-- Genealogy
+- Science
+- Family
+- Tourism
 tags:
-- bigfoot
-- sasquatch
-- skunk ape
-- weirdness
-- Missing 411
+- friends
+- bugs
+- planets
+- stars
+- paleontology
+- fossils
+- natural history
 
 ---
-Bigfoot is a big smelly man-ape who lives in the woods, and he is totally for real. I saw him once. He said hi.
+Brought my nephew/godson. We saw some things. Some guy fell asleep in the planetarium. It wasn't me.
