@@ -11,14 +11,16 @@ fields:
 - type: text
   name: author
   label: author
-- type: file
-  name: image
-  label: image
 - type: list
   name: categories
   label: categories
 - type: list
   name: tags
   label: tags
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
 pages:
 - content/post/found-in-the-wild.md
