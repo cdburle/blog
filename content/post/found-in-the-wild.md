@@ -7,4 +7,4 @@ tags = ["art bell", "ufology"]
 title = "Found in the Wild"
 
 +++
-![](https://res.cloudinary.com/cache51/image/upload/v1562352360/img/n922l09ur6731.jpg)
+![](https://res.cloudinary.com/cache51/image/upload/v1562352360/img/n922l09ur6731.jpg) 
